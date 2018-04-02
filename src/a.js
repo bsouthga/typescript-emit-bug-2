@@ -1,1 +1,3 @@
-export default Obj = {};
+const Obj = {};
+
+export default Obj;
