@@ -18,7 +18,7 @@ Given `a.js`  and `b.js` as follows:
 
 ```javascript
 // a.js
-export const Obj = {};
+export default Obj = {};
 ```
 
 ```javascript
