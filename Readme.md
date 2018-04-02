@@ -1,7 +1,5 @@
 # Typescript emit issue
 
-Emitt issue that occurs for TS > 2.5.3, note that it does _not_ occur for TS@2.5.3
-
 ## Repro
 
 - install deps (`npm install`)
