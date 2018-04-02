@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "test": "rm -rf ./dist/ && tsc"
+    "test": "tsc -v && rm -rf ./dist/ && tsc"
   },
   "dependencies": {
     "typescript": "2.8.1"
