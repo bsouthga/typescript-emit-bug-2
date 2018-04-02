@@ -1,5 +1,11 @@
 # Typescript emit issue
 
+Tested on versions
+
+- 2.7.2
+- 2.8.1
+- next
+
 ## Repro
 
 - install deps (`npm install`)
