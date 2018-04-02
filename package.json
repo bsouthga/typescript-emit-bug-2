@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "rm -rf ./dist/ && tsc"
+  },
+  "dependencies": {
+    "typescript": "2.8.1"
+  }
+}
